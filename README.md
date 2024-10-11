@@ -1,6 +1,8 @@
 *HELLO MI NAME IS: KARELIZ DIAZ
 
 He trabajado con:
+HTML
+CSS
 BBDD
 Cloud Azure
 Cloud AWS
